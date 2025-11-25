@@ -1,0 +1,53 @@
+Name,Team,Salary,Position,Projection,StdDev,Ceiling,Bust,Boom,Slate,Ownership,Optimal,Leverage
+Ja'Marr Chase,CIN,8000,WR,23.5,9.9,30.2,26.1,25.0,Main,52.8,49.77,-3.00
+Travis Kelce,KC,5000,TE,14.7,7.8,19.9,27.6,20.9,Main,33.9,32.80,-1.13
+Mark Andrews,BAL,3600,TE,11.0,6.6,15.4,25.3,15.6,Main,30.0,28.63,-1.40
+Derrick Henry,BAL,7300,RB,19.0,7.8,24.2,32.7,13.6,Main,36.8,38.10,1.33
+Zay Flowers,BAL,6100,WR,16.3,8.4,22.0,33.1,13.5,Main,28.6,32.60,3.97
+Amon-Ra St. Brown,DET,7800,WR,19.6,8.9,25.7,37.2,13.0,Main,39.5,32.30,-7.20
+Jahmyr Gibbs,DET,8800,RB,21.8,8.0,27.2,36.9,12.3,Main,34.7,38.50,3.80
+CeeDee Lamb,DAL,6900,WR,17.5,8.6,23.3,36.4,12.2,Main,31.6,31.93,0.30
+Rashee Rice,KC,7500,WR,18.5,9.0,24.5,39.3,12.1,Main,31.7,30.53,-1.13
+Patrick Mahomes,KC,6500,QB,22.4,7.8,27.6,26.8,10.9,Main,29.3,25.73,-3.57
+George Pickens,DAL,7000,WR,16.3,8.9,22.3,43.2,9.8,Main,24.2,25.93,1.70
+Josh Jacobs,GB,6800,RB,17.4,6.8,22.0,32.3,9.7,Main,31.8,34.03,2.23
+Mike Gesicki,CIN,3100,TE,8.9,5.7,12.7,27.2,9.1,Main,15.2,19.93,4.73
+Javonte Williams,DAL,6300,RB,16.2,6.6,20.6,32.1,8.7,Main,30.2,32.47,2.23
+Jameson Williams,DET,4800,WR,12.2,7.3,17.1,35.8,7.8,Main,26.2,25.10,-1.10
+Chase Brown,CIN,6500,RB,16.3,6.4,20.6,33.4,7.3,Main,34.9,30.47,-4.43
+Lamar Jackson,BAL,6800,QB,21.6,7.7,26.7,34.0,7.0,Main,20.2,22.27,2.10
+Romeo Doubs,GB,4600,WR,11.5,6.5,15.9,35.2,5.4,Main,20.7,20.43,-0.23
+Christian Watson,GB,4700,WR,10.8,7.1,15.6,41.3,5.3,Main,21.1,18.90,-2.23
+Isaiah Likely,BAL,2600,TE,6.6,5.0,10.0,32.0,4.3,Main,12.7,13.27,0.53
+Dak Prescott,DAL,6300,QB,19.2,7.1,24.0,37.4,4.3,Main,11.9,16.20,4.30
+Jake Ferguson,DAL,5100,TE,10.2,6.1,14.3,50.6,3.5,Main,9.7,13.00,3.33
+Brock Wright,DET,2800,TE,6.7,5.0,10.0,34.6,3.5,Main,9.1,12.07,2.93
+Joe Burrow,CIN,6000,QB,18.0,6.9,22.6,38.6,3.4,Main,13.7,13.13,-0.53
+Jordan Love,GB,5500,QB,16.9,6.3,21.2,35.3,2.8,Main,10.4,11.40,1.03
+Xavier Worthy,KC,4500,WR,9.8,6.0,13.8,43.5,2.2,Main,15.3,15.20,-0.07
+Ravens,BAL,3000,DST,6.5,4.3,9.4,37.9,2.1,Main,19.7,18.73,-1.00
+David Montgomery,DET,4800,RB,10.1,5.6,13.9,45.6,2.1,Main,16.1,15.87,-0.23
+Jared Goff,DET,5800,QB,16.7,6.4,21.0,42.2,2.0,Main,14.6,11.27,-3.33
+Cowboys,DAL,2400,DST,4.7,4.2,7.6,40.9,1.7,Main,12.9,16.27,3.37
+Chiefs,KC,2800,DST,5.7,4.3,8.6,40.5,1.7,Main,15.2,18.10,2.87
+Packers,GB,2600,DST,5.1,4.2,8.0,41.6,1.5,Main,21.8,16.80,-4.97
+DeAndre Hopkins,BAL,3300,WR,7.2,5.2,10.7,40.5,1.2,Main,8.1,10.90,2.77
+Bengals,CIN,2200,DST,3.8,3.9,6.5,44.6,0.8,Main,13.2,14.40,1.17
+Lions,DET,3200,DST,5.5,4.3,8.4,51.6,0.8,Main,17.1,15.70,-1.43
+Isiah Pacheco,KC,5000,RB,9.8,5.1,13.2,51.5,0.8,Main,7.5,10.90,3.40
+Dontayvion Wicks,GB,3400,WR,6.3,4.9,9.6,48.6,0.4,Main,6.7,7.23,0.50
+Andrei Iosivas,CIN,4300,WR,6.7,5.2,10.2,62.0,0.2,Main,8.6,6.30,-2.33
+Kareem Hunt,KC,5300,RB,8.3,5.1,11.7,68.5,0.2,Main,12.8,8.50,-4.33
+Samaje Perine,CIN,4000,RB,6.7,4.3,9.6,58.0,0.1,Main,4.9,6.33,1.43
+Noah Fant,CIN,3000,TE,4.2,4.0,6.9,59.7,0.1,Main,6.0,4.20,-1.77
+Matthew Golden,GB,3900,WR,5.9,4.6,8.9,62.8,0.1,Main,4.0,5.50,1.47
+Luke Musgrave,GB,2700,TE,3.8,3.6,6.3,57.0,0.1,Main,5.4,3.43,-2.00
+Keaton Mitchell,BAL,4500,RB,4.4,3.4,6.7,90.2,0.0,Main,1.5,1.53,0.03
+Justice Hill,BAL,4000,RB,5.1,3.7,7.6,74.8,0.0,Main,1.6,3.17,1.60
+Mitch Tinsley,CIN,3500,WR,4.7,4.0,7.4,66.3,0.0,Main,2.8,4.07,1.30
+Kavontae Turpin,DAL,3000,WR,4.3,3.8,6.9,59.0,0.0,Main,4.0,4.90,0.87
+Ryan Flournoy,DAL,3200,WR,4.2,4.0,6.9,64.2,0.0,Main,1.9,3.00,1.13
+Brashard Smith,KC,4200,RB,3.2,2.9,5.2,95.1,0.0,Main,1.7,1.00,-0.67
+Hollywood Brown,KC,4000,WR,5.0,4.5,8.1,71.7,0.0,Main,3.2,3.43,0.23
+Emanuel Wilson,GB,5800,RB,7.9,4.7,11.0,80.7,0.0,Main,13.2,4.43,-8.77
+Kalif Raymond,DET,3000,WR,4.0,3.8,6.6,62.2,0.0,Main,2.0,3.13,1.17
